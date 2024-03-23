@@ -41,8 +41,8 @@ a|b|c|d|e
 |||Re-requesting a Vanity Plate|[test_plates/](./test_plates/)
 |||Refueling|[test_fuel/](./test_fuel/)| error
 **Week 6 File I/O**|Problem Set 6|Lines of Code|[lines.py](./lines/lines.py)
-|||Pizza Py|[SOON]()
-|||Scourgify|[SOON]()
+|||Pizza Py|[pizza.py](./pizza/pizza.py)
+|||Scourgify|[scourgify.py](./scourgify/scourgify.py)| error
 |||CS50 P-Shirt|[SOON]()
 **week 7 Regular Expressions**|Problem Set 7|SOON|[SOON]()
 |||SOON|[SOON]()
