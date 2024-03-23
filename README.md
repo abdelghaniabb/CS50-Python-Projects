@@ -36,25 +36,42 @@ a|b|c|d|e
 |||Guessing Game|[game.py](./game/game.py)
 |||Little Professor|[professor.py](./professor/professor.py)
 |||Bitcoin Price Index|[bitcoin.py](./bitcoin/bitcoin.py)
-**Week 5 Unit Tests**|Problem Set 5|Testing my twttr|[SOON]()
-|||Back to the Bank|[SOON]()
-|||Re-requesting a Vanity Plate|[SOON]()
-|||Refueling|[SOON]()
-**Week 6 File I/O**|Lab 6|SOON|[SOON]()
-||Problem Set 6|SOON|[SOON]()
-**week 7 Regular Expressions**|Lab 7|SOON|[SOON]()
-||Problem Set 7|SOON|[SOON]()
+**Week 5 Unit Tests**|Problem Set 5|Testing my twttr|[test_twttr/](./test_twttr/)|90%
+|||Back to the Bank|[test_bank/](./test_bank/)|error
+|||Re-requesting a Vanity Plate|[test_plates/](./test_plates/)
+|||Refueling|[test_fuel/](./test_fuel/)| error
+**Week 6 File I/O**|Problem Set 6|Lines of Code|[lines.py](./lines/lines.py)
+|||Pizza Py|[SOON]()
+|||Scourgify|[SOON]()
+|||CS50 P-Shirt|[SOON]()
+**week 7 Regular Expressions**|Problem Set 7|SOON|[SOON]()
 |||SOON|[SOON]()
-**week 8 - Object-Oriented Programming**|Lab 8|SOON|[SOON]()
+|||SOON|[SOON]()
+|||SOON|[SOON]()
+**week 8 - Object-Oriented Programming**|Problem Set 8|SOON|[SOON]()
+|||SOON|[SOON]()
+|||SOON|[SOON]()
+|||SOON|[SOON]()
 ||Problem Set 8|SOON|[SOON]()
-**Week 9 Et Cetera**|Lab 9|SOON|[SOON]()
-||Problem Set 9|SOON|[SOON]()
+**Week 9 Et Cetera**|Problem Set 9|SOON|[SOON]()
+|||SOON|[SOON]()
+|||SOON|[SOON]()
+|||SOON|[SOON]()
 **Final SOON**|||[SOON]()
 
 
-
-### Week 10 
-* [Video]()
-
+### Sessions
+|week|attend session|
+:---|:---:
+Functions, Variables|
+Conditionals
+Loops
+Exceptions|done
+Libraries|done
+Unit Tests| done
+File I/O
+Regular Expressions
+Object-Oriented Programming
+Et Cetera
 
 
