@@ -1,11 +1,12 @@
 #!/usr/bin/python3
 
+import pytest
 from bank import value
 
 def test_value_hello():
     assert value('hello') == 0
     assert value('HEllo how can I help you') == 0
-    assert value(' hel lo there') == 0
+    assert value('hello there') == 0
 
 
 def test_value_h():
@@ -19,3 +20,5 @@ def test_value_non():
     assert value('Greeting') == 100
     assert value('good day') == 100
 
+if __name__ == '__main__':
+    pytest.main()

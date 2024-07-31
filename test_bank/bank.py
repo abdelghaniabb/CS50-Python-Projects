@@ -1,11 +1,9 @@
 #!/usr/bin/python3
 
 def main():
-    try:
-        user_input = input('Greeting: ')
-        print('$' + str(value(user_input)))
-    except Exception:
-        exit(0)
+    user_input = input('Greeting: ')
+    print('$' + str(value(user_input)))
+
 
 
 def value(greeting):

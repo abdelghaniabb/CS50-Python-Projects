@@ -37,13 +37,13 @@ a|b|c|d|e
 |||Little Professor|[professor.py](./professor/professor.py)
 |||Bitcoin Price Index|[bitcoin.py](./bitcoin/bitcoin.py)
 **Week 5 Unit Tests**|Problem Set 5|Testing my twttr|[test_twttr/](./test_twttr/)|90%
-|||Back to the Bank|[test_bank/](./test_bank/)|error
+|||Back to the Bank|[test_bank/](./test_bank/)|
 |||Re-requesting a Vanity Plate|[test_plates/](./test_plates/)
-|||Refueling|[test_fuel/](./test_fuel/)| error
+|||Refueling|[test_fuel/](./test_fuel/)| 
 **Week 6 File I/O**|Problem Set 6|Lines of Code|[lines.py](./lines/lines.py)
 |||Pizza Py|[pizza.py](./pizza/pizza.py)
 |||Scourgify|[scourgify.py](./scourgify/scourgify.py)| error
-|||CS50 P-Shirt|[SOON]()
+|||CS50 P-Shirt|[shirt.py](./shirt/shirt.py)
 **week 7 Regular Expressions**|Problem Set 7|SOON|[SOON]()
 |||SOON|[SOON]()
 |||SOON|[SOON]()

@@ -16,7 +16,7 @@ def convert(fraction):
         Y = int(fraction.replace(' ', '').split('/')[1])
 
         if Y == 0:
-            raise ZeroDivisionError("Y cannot be 0")
+            raise ZeroDivisionError('Y is 0')
         if X > Y:
             raise ValueError('X is greater than Y')
 
