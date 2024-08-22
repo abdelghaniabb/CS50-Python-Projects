@@ -52,12 +52,7 @@ a|b|c|d|e
 |||SOON|[SOON]()
 |||SOON|[SOON]()
 |||SOON|[SOON]()
-||Problem Set 8|SOON|[SOON]()
-**Week 9 Et Cetera**|Problem Set 9|SOON|[SOON]()
-|||SOON|[SOON]()
-|||SOON|[SOON]()
-|||SOON|[SOON]()
-**Final SOON**|||[SOON]()
+**Final Project**|||[project/](./project/)
 
 
 ### Sessions

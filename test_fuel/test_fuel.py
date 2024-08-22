@@ -16,6 +16,7 @@ def test_convert():
     with pytest.raises(ZeroDivisionError):
         convert("1/0")  # Denominator is zero
 
+
 def test_gauge():
     assert gauge(0) == "E"
     assert gauge(1) == "E"
