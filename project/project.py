@@ -9,7 +9,7 @@ total = dict()
 # 1 Get the data.
 def read_file():
     """reads the file and returns the the data"""
-    with open('data.csv', 'r', encoding='utf-8') as infile:
+    with open('data5.csv', 'r', encoding='utf-8') as infile:
         reader = csv.reader(infile)
 
         indata = list()
@@ -27,7 +27,7 @@ def extract_names(indata):
     data = list()
     for row in indata[1:]:
         data.append(row[0].split(';'))
-    
+    print(names)
     return names, data
 
 
@@ -68,6 +68,7 @@ def check_contributed(names, name_spender, spent):
         # check if all the non contributed names where correct
         for name in non_contributed_names:
             if name not in names:
+                print
                 print("Name error: <<{}>>".format(name))
                 exit(0)
         value = float(spent_list[0]) / (len(names) - len(non_contributed_names))
